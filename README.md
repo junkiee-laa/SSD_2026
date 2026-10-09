@@ -11,10 +11,10 @@
 1. Verify your local development environment (**JDK 21** and your preferred IDE).
 2. Complete and push `SETUP.md` with your environment details and team preferences.
 3. Review core Object-Oriented principles in Java:
-   - **Encapsulation:** Private attributes with getters/setters and invariant validation.
-   - **Inheritance:** Using `extends` and constructor chaining with `super()`.
-   - **Abstraction:** Defining and implementing `abstract class` and `abstract` methods.
-   - **Polymorphism:** Declaring collections of super-types (`List<Shape>`) and invoking polymorphic methods.
+    - **Encapsulation:** Private attributes with getters/setters and invariant validation.
+    - **Inheritance:** Using `extends` and constructor chaining with `super()`.
+    - **Abstraction:** Defining and implementing `abstract class` and `abstract` methods.
+    - **Polymorphism:** Declaring collections of super-types (`List<Shape>`) and invoking polymorphic methods.
 4. Run automated tests using JUnit 5 (`mvn test`).
 
 ---
