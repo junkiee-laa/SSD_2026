@@ -25,6 +25,8 @@
 Open `src/main/java/shapes/` in IntelliJ IDEA or your IDE.
 - Inspect `Shape.java`: Notice how it is declared `abstract` and has an abstract `getArea()` and `getPerimeter()` method.
 - Inspect `Square.java`: Extends `Shape`. Notice how `super(4)` is called to pass the side count to the superclass constructor.
+### Done git work day-1
+
 
 ### Task 2: Complete `Circle.java`
 - In `Circle.java`, extend `Shape`.
